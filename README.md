@@ -64,8 +64,11 @@ Python beginners interested in rule-based NLP
 # ✅ Requirements
 Jupyter Notebook environment (or any Python 3 interpreter)
 
-No external libraries required
-
+install google-generativeai and ipywidgets libraries required
+```python
+pip install google-generativeai
+pip install ipywidgets
+```
 ---
 
 # 📜 License
@@ -79,4 +82,4 @@ Developed as a part of AI agent simulation studies under the mentorship of IBM S
 ---
 
 # Author
-Developed by Saksham Sharma
+Developed by Saksham Sharma under the IBM Skill Builds Learner to Builder: Become an AI Agent Architect Program
